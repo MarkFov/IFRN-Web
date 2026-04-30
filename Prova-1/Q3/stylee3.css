@@ -1,0 +1,20 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(205, 240, 233);
+    border: 1px solid;
+    border-color: rgb(0, 0, 0);
+}
+h1{
+    font-size: x-large;
+    font-weight:bold ;
+    text-align: center;
+}
+p{
+    font-style: arial;
+    font-size: medium;
+
+}
+i{
+    color: #f00;
+}
